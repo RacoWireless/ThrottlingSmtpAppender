@@ -30,7 +30,7 @@ WE2013-settings.xml
 *.map
 syntax: regexp
 /CustomSkins/*
-/packages/*
+source/packages/*
 OmegaWeb/OmegaWeb/public
 npm-debug*
 OmegaWeb/OmegaWeb/node_modules
